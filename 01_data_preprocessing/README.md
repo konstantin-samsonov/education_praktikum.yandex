@@ -1,3 +1,5 @@
+> :warning: Порой темные электрические силы мешают GitHub корректно отображать файлы формата `ipynb`. Чтобы победить и встать на светлую сторону силы можно просмотреть код проекта в nbviewer.jupyter.org по [этой ссылке](https://nbviewer.jupyter.org/github/konstantin-samsonov/education_praktikum.yandex/blob/master/01_data_preprocessing/data_preprocessing.ipynb) 
+
 # Исследование надёжности заёмщиков — анализ банковских данных
 
 ## Задача 
