@@ -1,3 +1,5 @@
+> :warning: Порой темные электрические силы мешают GitHub корректно отображать файлы формата `ipynb`. Если такое случилось и в этот раз, то можно просмотреть код проекта в nbviewer.jupyter.org по [этой ссылке](https://nbviewer.jupyter.org/github/konstantin-samsonov/education_praktikum.yandex/blob/master/10_machine_learning/machine_learning.ipynb) 
+
 # Прогнозирование вероятности оттока пользователей для фитнес-центров
 
 ## Задача

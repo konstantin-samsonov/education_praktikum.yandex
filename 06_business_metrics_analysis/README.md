@@ -1,3 +1,5 @@
+> :warning: Порой темные электрические силы мешают GitHub корректно отображать файлы формата `ipynb`. Если такое случилось и в этот раз, то можно просмотреть код проекта в nbviewer.jupyter.org по [этой ссылке](https://nbviewer.jupyter.org/github/konstantin-samsonov/education_praktikum.yandex/blob/master/06_business_metrics_analysis/business_metrics_analysis.ipynb) 
+
 # Оптимизация маркетинговых затрат в Яндекс.Афише
 
 ## Задача

@@ -1,3 +1,5 @@
+> :warning: Порой темные электрические силы мешают GitHub корректно отображать файлы формата `ipynb`. Если такое случилось и в этот раз, то можно просмотреть код проекта в nbviewer.jupyter.org по [этой ссылке](https://nbviewer.jupyter.org/github/konstantin-samsonov/education_praktikum.yandex/blob/master/07_data-driven_business/data-driven_business.ipynb) 
+
 # Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста
 
 ## Задача

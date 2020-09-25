@@ -1,3 +1,5 @@
+> :warning: Порой темные электрические силы мешают GitHub корректно отображать файлы формата `ipynb`. Если такое случилось и в этот раз, то можно просмотреть код проекта в nbviewer.jupyter.org по следующим ссылкам: [часть1](https://nbviewer.jupyter.org/github/konstantin-samsonov/education_praktikum.yandex/blob/master/11_final_project/final-project_01_ab-test.ipynb), [часть2](https://nbviewer.jupyter.org/github/konstantin-samsonov/education_praktikum.yandex/blob/master/11_final_project/final-project_02_sql.ipynb), [часть3](https://nbviewer.jupyter.org/github/konstantin-samsonov/education_praktikum.yandex/blob/master/11_final_project/final-project_03_project.ipynb) 
+
 # Выпускной проект
 - чатсть 1 - провести оценку результатов A/B-теста. Оценить корректность проведения теста. Проанализируйте результаты теста
 - часть 2 - решить задачи по выгрузке данных средствами SQL
