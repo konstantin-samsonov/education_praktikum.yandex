@@ -1,3 +1,6 @@
+> :warning: 
+Порой темные электрические силы мешают GitHub корректно отображать файлы формата `ipynb`. Если такое случилось и в этот раз, то можно просмотреть код проекта в nbviewer.jupyter.org по [этой ссылке](https://nbviewer.jupyter.org/github/konstantin-samsonov/education_praktikum.yandex/blob/master/02_exploratory_data_analysis/exploratory_data_analysis.ipynb) 
+
 # Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
 
 ## Задача 
